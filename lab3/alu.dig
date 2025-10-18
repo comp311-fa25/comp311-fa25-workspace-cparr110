@@ -339,7 +339,7 @@
         </entry>
         <entry>
           <string>NetName</string>
-          <string>A</string>
+          <string>B</string>
         </entry>
       </elementAttributes>
       <pos x="900" y="460"/>
@@ -353,7 +353,7 @@
         </entry>
         <entry>
           <string>NetName</string>
-          <string>B</string>
+          <string>A</string>
         </entry>
       </elementAttributes>
       <pos x="900" y="480"/>
