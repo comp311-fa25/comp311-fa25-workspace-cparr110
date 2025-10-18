@@ -481,7 +481,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>Out1</string>
+          <string>Out0</string>
         </entry>
       </elementAttributes>
       <pos x="1060" y="460"/>
@@ -553,7 +553,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>Out4</string>
+          <string>Out1</string>
         </entry>
       </elementAttributes>
       <pos x="1200" y="620"/>
@@ -562,16 +562,16 @@
       <elementName>Multiplexer</elementName>
       <elementAttributes>
         <entry>
-          <string>Bits</string>
-          <int>32</int>
-        </entry>
-        <entry>
           <string>Selector Bits</string>
           <int>2</int>
         </entry>
         <entry>
           <string>rotation</string>
           <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>Bits</string>
+          <int>32</int>
         </entry>
       </elementAttributes>
       <pos x="1340" y="700"/>
@@ -585,7 +585,7 @@
         </entry>
         <entry>
           <string>NetName</string>
-          <string>Out1</string>
+          <string>Out0</string>
         </entry>
       </elementAttributes>
       <pos x="1340" y="660"/>
@@ -599,7 +599,7 @@
         </entry>
         <entry>
           <string>NetName</string>
-          <string>Out4</string>
+          <string>Out1</string>
         </entry>
       </elementAttributes>
       <pos x="1320" y="660"/>
